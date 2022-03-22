@@ -5,7 +5,6 @@ storage
 node_modules
 *.map
 
-dist/
 
 # near-api-js files & coverage
 neardev/
